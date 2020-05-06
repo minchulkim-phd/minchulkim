@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -43,12 +43,13 @@ ul.posts li {
 }
 
 .imgDes {
-  margin-left: 180px;
+  margin-left: 100px;
   overflow: hidden;
   text-align: left;
 }
 .imgDes p {
   text-align: left;
+  font-size: 1.0em;
 }
 
 .slide-content {
