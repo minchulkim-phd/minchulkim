@@ -45,15 +45,15 @@ ul.posts li {
 .imgDes {
   margin-left: 100px;
   overflow: hidden;
-  text-align: left;
+  text-align: justify;
 }
 .imgDes p {
-  text-align: right;
+  text-align: justify;
   font-size: 1.0em;
 }
 
 .slide-content {
-  width: 718px;
+  width: 800px;
   height: 900px;
   background-position: 11px 0;
   background-repeat: no-repeat;
